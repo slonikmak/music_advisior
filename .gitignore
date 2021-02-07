@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Music Advisor/task/build/
+/Music Advisor/task/out/
+/Music Advisor/task/out/production/classes/
+/Problems/Coffee Decorator/out/
+/Problems/Coffee Decorator/out/production/classes/
+/Problems/Max and Min/out/
+/Problems/Max and Min/out/production/classes/
+/Problems/Pizza Decorator/out/
+/Problems/Pizza Decorator/out/production/classes/
+/Problems/Static factory methods for Time/out/
+/Problems/Static factory methods for Time/out/production/classes/
+/Problems/Violator/out/
+/Problems/Violator/out/production/classes/
